@@ -12,5 +12,11 @@ Kaggle Dataset: https://www.kaggle.com/datasets/wobotintelligence/face-mask-dete
 
 ### Screenshots
 
+#### Single person
+
 | ![With Mask](/screenshots/with.png) | ![Without Mask](/screenshots/without1.png) | ![Without Mask](/screenshots/without2.png) |
 | ----------------------------------- | ------------------------------------------ | ------------------------------------------ |
+
+#### Multiple people
+
+![People walking](/screenshots/video.png)
