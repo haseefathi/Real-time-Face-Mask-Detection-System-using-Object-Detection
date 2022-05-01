@@ -20,3 +20,9 @@ Kaggle Dataset: https://www.kaggle.com/datasets/wobotintelligence/face-mask-dete
 #### Multiple people
 
 ![People walking](/screenshots/video.png)
+
+<hr>
+
+#### Example alert via WhatsApp
+
+<img src="screenshots/alert.jpg" alt="Alert" height="300"/>
